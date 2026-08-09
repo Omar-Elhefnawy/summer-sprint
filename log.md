@@ -1,0 +1,1 @@
+-- Day 1 — toolchain setup. gcc missing stdio.h, fixed with build-essential reinstall. Accidentally git-init'd home directory. Wrote hello/loop/func in C.
